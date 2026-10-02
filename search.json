@@ -1,0 +1,478 @@
+[
+  {
+    "objectID": "documentacion.html",
+    "href": "documentacion.html",
+    "title": "Base documental",
+    "section": "",
+    "text": "TRAZABILIDAD\n\n\nLa versión 2027 no combina indiscriminadamente borradores, recomendaciones y supuestos. Cada dimensión del programa se vincula con una fuente documental y conserva el estado que corresponde: diseño original, recomendación posterior, presupuesto actualizado o decisión todavía pendiente."
+  },
+  {
+    "objectID": "documentacion.html#jerarquía-de-referencia",
+    "href": "documentacion.html#jerarquía-de-referencia",
+    "title": "Base documental",
+    "section": "Jerarquía de referencia",
+    "text": "Jerarquía de referencia\nLa propuesta académica inicial gobierna el diseño de base del programa: propósito, objetivos, público, siete módulos, actividades autónomas, duración total y estructura de evaluación. La retroalimentación institucional posterior aporta recomendaciones para fortalecer el posicionamiento, integrar el dossier, mejorar la propuesta de valor y preparar la edición 2027. El presupuesto actualizado gobierna la composición documentada del costo por edición dentro de su alcance. Finalmente, la revisión aprobada consolida estas fuentes, explicita contradicciones y pendientes y funciona como referencia rectora para la web, los Word y la presentación ejecutiva.\n\n\n\n\n\n\n\nDimensión\nReferencia utilizada\n\n\n\n\nPropósito, objetivos y público\nPropuesta académica inicial y revisión aprobada\n\n\nSecuencia de siete módulos\nPropuesta académica inicial, conservada en la revisión aprobada\n\n\nDossier institucional\nProductos ya presentes en la propuesta inicial + recomendación de integración posterior\n\n\nEvaluación 25 % / 35 % / 40 %\nPropuesta académica inicial, ratificada en la revisión aprobada\n\n\nPlataformas y canales\nFunding & Tenders, CORDIS, NCPs, redes, brokerage y matchmaking documentados en la propuesta\n\n\nPresupuesto de USD 5.000\nPresupuesto actualizado por edición\n\n\nMatrículas y escenarios de cohorte\nReferencias comerciales preliminares; no son todavía precios aprobados\n\n\nEquipo docente 2027\nPerfiles documentados; confirmaciones y carga horaria pendientes\n\n\nLanzamiento, certificación, PI y grabaciones\nEstado de cierre institucional explicitado en la revisión aprobada"
+  },
+  {
+    "objectID": "documentacion.html#regla-de-actualización",
+    "href": "documentacion.html#regla-de-actualización",
+    "title": "Base documental",
+    "section": "Regla de actualización",
+    "text": "Regla de actualización\nCuando una fuente posterior resuelve de forma explícita un aspecto anterior, se utiliza la referencia más reciente dentro de ese alcance. Cuando una cuestión continúa abierta, no se completa mediante inferencias. Se mantiene como pendiente hasta que exista una decisión institucional.\nEste criterio es especialmente importante en presupuesto y comercialización. El costo base por edición está desagregado, mientras que las referencias de matrícula siguen siendo preliminares. De manera similar, los perfiles docentes están identificados, pero su participación definitiva y distribución horaria para 2027 todavía deben confirmarse."
+  },
+  {
+    "objectID": "documentacion.html#qué-no-se-presenta-como-definitivo",
+    "href": "documentacion.html#qué-no-se-presenta-como-definitivo",
+    "title": "Base documental",
+    "section": "Qué no se presenta como definitivo",
+    "text": "Qué no se presenta como definitivo\nLa web evita asignar fechas, docentes por módulo, horas individuales, precios finales, acceso a grabaciones, titularidad de materiales o responsabilidades contractuales sin respaldo documental. La misma regla se aplica al dossier: la identificación de un socio potencial no implica acuerdo, interés ni disponibilidad real para colaborar."
+  },
+  {
+    "objectID": "documentacion.html#infraestructura-interna-de-planning-solutions",
+    "href": "documentacion.html#infraestructura-interna-de-planning-solutions",
+    "title": "Base documental",
+    "section": "Infraestructura interna de Planning Solutions",
+    "text": "Infraestructura interna de Planning Solutions\nR, Quarto, GitHub, Obsidian y otras herramientas se utilizan para organizar fuentes, validar consistencia y producir entregables reproducibles. Son parte del sistema de producción de Planning Solutions y no constituyen requisitos académicos para los participantes, salvo que una futura decisión del programa establezca expresamente lo contrario.\n\nLa trazabilidad no busca hacer más burocrática la propuesta. Busca que cada afirmación importante pueda distinguirse entre dato documentado, decisión institucional, recomendación y pendiente por resolver."
+  },
+  {
+    "objectID": "equipo.html",
+    "href": "equipo.html",
+    "title": "Equipo y estado 2027",
+    "section": "",
+    "text": "EQUIPO E IMPLEMENTACIÓN\n\n\nLa propuesta inicial identifica cuatro facilitadores con experiencia en cooperación internacional, financiamiento europeo, internacionalización universitaria y gestión de proyectos. La revisión institucional exige distinguir entre perfiles documentados y confirmaciones efectivas para la edición 2027."
+  },
+  {
+    "objectID": "equipo.html#estado-del-equipo-docente",
+    "href": "equipo.html#estado-del-equipo-docente",
+    "title": "Equipo y estado 2027",
+    "section": "Estado del equipo docente",
+    "text": "Estado del equipo docente\nNingún facilitador cuenta con confirmación definitiva para 2027 en las fuentes revisadas. Kevin Jiménez Villavicencio aparece en la propuesta inicial como responsable del evento y facilitador, sin la indicación de “por confirmar” que acompaña a los otros tres perfiles; aun así, esa diferencia documental no equivale a una confirmación definitiva para la nueva edición.\n\n\n\n\n\n\n\n\nFacilitador\nPerfil resumido de la propuesta inicial\nEstado 2027\n\n\n\n\nKevin Jiménez Villavicencio\nConsultor en proyectos, cooperación internacional, política pública y planificación estratégica. La propuesta lo identifica como responsable del evento y describe experiencia en cooperación, Erasmus+, evaluación de I+D+i y calidad internacional.\nPendiente de confirmación definitiva\n\n\nCatherine Fonseca Hortúa\nConsultora senior en cooperación internacional y proyectos estratégicos, con experiencia en internacionalización universitaria y en las Acciones Marie Skłodowska-Curie.\nPor confirmar según fechas y agenda\n\n\nTeresa Amido\nEspecialista en financiación europea, innovación e investigación, con experiencia en Erasmus+, Horizon 2020, Horizonte Europa, alianzas universitarias europeas y cooperación birregional.\nPor confirmar según fechas y agenda\n\n\nHéctor Fabián Montenegro\nDirector de Edu Nexus Consulting CLG, con experiencia en proyectos tecnológicos, plataformas digitales, Erasmus+ y colaboraciones entre Europa y Latinoamérica.\nPor confirmar según fechas y agenda\n\n\n\nLa asignación de módulos y horas por facilitador permanece pendiente. La página no atribuye módulos, carga horaria ni disponibilidad mientras esas decisiones no hayan sido confirmadas institucionalmente."
+  },
+  {
+    "objectID": "equipo.html#instituciones-y-referencias-de-rol",
+    "href": "equipo.html#instituciones-y-referencias-de-rol",
+    "title": "Equipo y estado 2027",
+    "section": "Instituciones y referencias de rol",
+    "text": "Instituciones y referencias de rol\nLUCES Universidad Corporativa aparece en la documentación como posible espacio de incorporación al portafolio 2027 y como referencia para plataforma y certificación. Rectoral Board participa en la propuesta, en la retroalimentación institucional y en referencias económicas. Planning Solutions interviene en la preparación del producto y aparece en el presupuesto dentro del fee administrativo compartido con Rectoral Board.\nEstas referencias no sustituyen los acuerdos que todavía deben formalizarse. Las responsabilidades de ejecución, certificación, propiedad intelectual, uso de grabaciones, política comercial y distribución económica deben definirse antes de presentar la edición 2027 como cerrada."
+  },
+  {
+    "objectID": "equipo.html#estado-de-preparación-institucional",
+    "href": "equipo.html#estado-de-preparación-institucional",
+    "title": "Equipo y estado 2027",
+    "section": "Estado de preparación institucional",
+    "text": "Estado de preparación institucional\nLa arquitectura académica de base, la duración total, la distribución entre trabajo sincrónico y autónomo y la estructura de evaluación están documentadas. El presupuesto también cuenta con una desagregación por edición. Sin embargo, continúan pendientes la confirmación del equipo docente, la carga horaria individual, el calendario, las rúbricas finales, las condiciones de certificación, la propiedad intelectual, las reglas de uso de grabaciones, las responsabilidades de las partes y la política comercial definitiva.\nLa comunicación del programa mantiene esa diferencia de manera deliberada: una propuesta ejecutiva puede estar sólidamente construida sin presentar como definitivos aspectos que todavía dependen de acuerdos institucionales."
+  },
+  {
+    "objectID": "lanzamiento.html",
+    "href": "lanzamiento.html",
+    "title": "Lanzamiento 2027",
+    "section": "",
+    "text": "LANZAMIENTO 2027\n\n\nLa valoración recibida permite continuar trabajando hacia una posible incorporación al portafolio LUCES 2027. Sin embargo, avanzar hacia el lanzamiento requiere distinguir entre lo que ya está documentado, lo que se encuentra parcialmente resuelto y lo que todavía necesita una decisión formal."
+  },
+  {
+    "objectID": "lanzamiento.html#estado-de-preparación",
+    "href": "lanzamiento.html#estado-de-preparación",
+    "title": "Lanzamiento 2027",
+    "section": "Estado de preparación",
+    "text": "Estado de preparación\nLa arquitectura académica de base está definida: modalidad en línea, 30 horas académicas, 14 horas sincrónicas, 16 horas autónomas, siete módulos y una estructura de evaluación documentada. El presupuesto por edición también cuenta con una desagregación específica. Estos elementos permiten trabajar sobre una base concreta.\nTodavía deben cerrarse asuntos que afectan la operación, la comunicación y la relación entre las instituciones participantes. La existencia de una propuesta académica y económica sólida no equivale, por sí sola, a un lanzamiento confirmado.\n\n\n\n\n\n\n\n\nTema\nEstado\nQué falta resolver\n\n\n\n\nPresupuesto total y composición por edición\nResuelto documentalmente\nConservar el presupuesto actualizado como referencia y confirmar condiciones particulares\n\n\nCostos adicionales, impuestos y relación con la reserva comercial\nParcialmente resuelto\nConfirmar impuestos, retenciones y posible superposición entre rubros\n\n\nModelo de remuneración de especialistas\nParcialmente resuelto\nDefinir asignaciones individuales y relación económica; no existe tarifa por hora documentada\n\n\nRelación económica Planning / Rectoral Board / LUCES\nParcialmente resuelto\nConfirmar rubro LUCES y distribución del fee administrativo\n\n\nEquipo docente\nPendiente\nConfirmar disponibilidad para 2027\n\n\nMódulos y carga por especialista\nPendiente\nAsignar responsabilidades y horas\n\n\nArquitectura académica final\nParcialmente resuelto\nValidar distribución horaria por módulo y ajustes editoriales\n\n\nDossier y entregables\nParcialmente resuelto\nValidar formatos, alcance y articulación modular definitiva\n\n\nEvaluación y rúbricas\nParcialmente resuelto\nConservar las ponderaciones documentadas y cerrar rúbricas y responsabilidades\n\n\nCronograma comercial y académico\nPendiente\nDefinir lanzamiento, matrícula, confirmación de cohorte y ejecución\n\n\nCertificación\nParcialmente resuelto\nConfirmar emisión, condiciones y responsabilidades institucionales\n\n\nPropiedad intelectual\nPendiente\nDefinir titularidad y reglas de uso de materiales\n\n\nGrabaciones y recursos digitales\nParcialmente resuelto\nDefinir acceso, duración, autorización de uso y disponibilidad posterior\n\n\nResponsabilidades institucionales\nParcialmente resuelto\nFormalizar quién ejecuta, coordina, certifica, factura y comunica\n\n\nPolítica comercial y matrícula final\nPendiente\nCerrar precios, condiciones, volumen y política de lanzamiento"
+  },
+  {
+    "objectID": "lanzamiento.html#secuencia-propuesta-de-cierre",
+    "href": "lanzamiento.html#secuencia-propuesta-de-cierre",
+    "title": "Lanzamiento 2027",
+    "section": "Secuencia propuesta de cierre",
+    "text": "Secuencia propuesta de cierre\nEl documento aprobado no fija fechas definitivas para 2027. Por ello, la preparación debe organizarse por fases y no mediante fechas inventadas. Una secuencia coherente es cerrar primero la arquitectura académica y financiera; después confirmar equipo y responsabilidades; luego preparar materiales, plataforma y campaña; y solo entonces abrir matrícula, confirmar cohorte, ejecutar, evaluar y certificar.\n\n\n\n\n\n\n\n\n\nOrden\nFase\nFecha 2027\nEstado de responsabilidad\n\n\n\n\n1\nCierre académico\nPor definir\nPendiente de definición\n\n\n2\nCierre financiero\nPor definir\nPendiente de definición\n\n\n3\nConfirmación de facilitadores\nPor definir\nPendiente de definición\n\n\n4\nPreparación de materiales\nPor definir\nPendiente de definición\n\n\n5\nPreparación de plataforma\nPor definir\nPendiente de definición\n\n\n6\nCampaña comercial\nPor definir\nPendiente de definición\n\n\n7\nPeríodo de matrícula\nPor definir\nPendiente de definición\n\n\n8\nConfirmación de cohorte\nPor definir\nPendiente de definición\n\n\n9\nEjecución\nPor definir\nPendiente de definición\n\n\n10\nEvaluación\nPor definir\nPendiente de definición\n\n\n11\nCertificación\nPor definir\nPendiente de definición\n\n\n12\nCierre de edición\nPor definir\nPendiente de definición"
+  },
+  {
+    "objectID": "lanzamiento.html#certificación",
+    "href": "lanzamiento.html#certificación",
+    "title": "Lanzamiento 2027",
+    "section": "Certificación",
+    "text": "Certificación\nLa propuesta inicial prevé certificación de aprobación y establece una nota mínima de 7/10. El presupuesto actualizado incluye plataforma y certificación dentro del rubro asociado a LUCES, pero ese componente está sujeto a confirmación. Antes de comunicar la certificación como definitiva deben acordarse la entidad emisora, las condiciones de aprobación, la responsabilidad sobre notas y la forma de entrega de certificados."
+  },
+  {
+    "objectID": "lanzamiento.html#grabaciones-recursos-digitales-y-propiedad-intelectual",
+    "href": "lanzamiento.html#grabaciones-recursos-digitales-y-propiedad-intelectual",
+    "title": "Lanzamiento 2027",
+    "section": "Grabaciones, recursos digitales y propiedad intelectual",
+    "text": "Grabaciones, recursos digitales y propiedad intelectual\nEl presupuesto contempla grabaciones y recursos digitales, pero no establece por cuánto tiempo estarán disponibles, quién podrá acceder, qué usos estarán autorizados ni quién será titular de los materiales. La web no promete acceso posterior a grabaciones mientras esas reglas no se encuentren aprobadas.\nLa propiedad intelectual de presentaciones, plantillas, documentos, grabaciones y otros materiales debe definirse expresamente entre las partes antes de la ejecución. Esta decisión también debe aclarar qué materiales puede reutilizar Planning Solutions, cuáles corresponden al programa y cuáles pueden quedar disponibles para los participantes."
+  },
+  {
+    "objectID": "lanzamiento.html#criterio-de-comunicación",
+    "href": "lanzamiento.html#criterio-de-comunicación",
+    "title": "Lanzamiento 2027",
+    "section": "Criterio de comunicación",
+    "text": "Criterio de comunicación\nLa edición 2027 puede presentarse como una propuesta institucional avanzada y en proceso de cierre. No debe anunciarse todavía como edición confirmada con fechas, docentes, precios o certificación definitiva hasta que esos elementos estén formalizados.\n\nLa transparencia sobre el estado de preparación añade valor: permite avanzar comercialmente sin confundir una propuesta bien desarrollada con una edición contractual y operativamente cerrada."
+  },
+  {
+    "objectID": "presentacion.html#propuesta-ejecutiva-para-revisión-institucional-2027",
+    "href": "presentacion.html#propuesta-ejecutiva-para-revisión-institucional-2027",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Propuesta ejecutiva para revisión institucional 2027",
+    "text": "Propuesta ejecutiva para revisión institucional 2027\nConsorcios Internacionales desde el Sur Global\nEl programa plantea una jornada de preparación institucional para que universidades y equipos de cooperación puedan identificar oportunidades, demostrar capacidades, construir alianzas y prepararse para participar en consorcios internacionales con una contribución científica, contextual y territorial propia.\n\nPLANNING SOLUTIONS"
+  },
+  {
+    "objectID": "presentacion.html#el-punto-de-partida",
+    "href": "presentacion.html#el-punto-de-partida",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "El punto de partida",
+    "text": "El punto de partida\nMuchas instituciones latinoamericanas cuentan con investigadores, experiencia territorial, redes, infraestructura y conocimiento especializado, pero esa capacidad no siempre está organizada de una manera que facilite su incorporación a una oportunidad internacional.\nLa propuesta trabaja sobre esa brecha. No se limita a enseñar dónde encontrar convocatorias; busca que la institución pueda reconocer qué aporta, cómo comunicarlo, qué alianzas necesita y qué debe preparar antes de una futura postulación.\n\nLa internacionalización no empieza cuando aparece una convocatoria. Empieza cuando la institución puede explicar con claridad qué puede aportar y con qué evidencia."
+  },
+  {
+    "objectID": "presentacion.html#configuración-académica",
+    "href": "presentacion.html#configuración-académica",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Configuración académica",
+    "text": "Configuración académica\n\n\n\n\n\n\n\nDimensión\nDefinición documentada\n\n\n\n\nModalidad\nEn línea\n\n\nDuración\n30 horas académicas\n\n\nTrabajo sincrónico\n14 horas\n\n\nTrabajo autónomo\n16 horas\n\n\nMódulos\n7\n\n\nProducto integrador propuesto\nDossier de Posicionamiento Institucional para Consorcios Internacionales\n\n\n\nLa distribución de horas por módulo y la asignación de facilitadores todavía no están definidas para 2027. El programa conserva la secuencia académica de la propuesta inicial y articula sus ejercicios dentro del dossier recomendado por LUCES / Rectoral Board."
+  },
+  {
+    "objectID": "presentacion.html#la-secuencia-del-programa",
+    "href": "presentacion.html#la-secuencia-del-programa",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "La secuencia del programa",
+    "text": "La secuencia del programa\nLos dos primeros módulos sitúan el ecosistema de financiamiento internacional y ayudan a organizar las capacidades de la institución. El tercero trabaja la interpretación de convocatorias. El cuarto aborda canales y plataformas para la búsqueda de socios. El quinto se concentra en networking, matchmaking y pitch institucional. El sexto trabaja la composición preliminar del consorcio. El séptimo revisa requisitos administrativos y lecciones aprendidas.\nHorizonte Europa es uno de los principales escenarios de aplicación, pero la propuesta mantiene una perspectiva más amplia y contempla otras iniciativas de cooperación científica global."
+  },
+  {
+    "objectID": "presentacion.html#plataformas-y-canales-de-trabajo",
+    "href": "presentacion.html#plataformas-y-canales-de-trabajo",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Plataformas y canales de trabajo",
+    "text": "Plataformas y canales de trabajo\nEl Funding & Tenders Portal permite trabajar con convocatorias y tópicos. CORDIS aporta información sobre proyectos financiados, coordinadores y participantes. Los Puntos Nacionales de Contacto y las redes académicas forman parte del ecosistema de orientación y conexión. Los brokerage events y los espacios de matchmaking se utilizan como contextos para preparar conversaciones institucionales con potenciales socios.\nEstas herramientas se incorporan en función de decisiones de cooperación. No se presentan como un catálogo de plataformas, sino como recursos para analizar oportunidades, actores y posibles alianzas."
+  },
+  {
+    "objectID": "presentacion.html#el-dossier-institucional",
+    "href": "presentacion.html#el-dossier-institucional",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "El dossier institucional",
+    "text": "El dossier institucional\nEl producto integrador reúne diez componentes: autodiagnóstico institucional, mapa de capacidades, perfil de socio internacional, convocatorias prioritarias, potenciales socios, pitch institucional, diseño preliminar del consorcio, nota conceptual, checklist administrativo y hoja de ruta de internacionalización y próximos pasos.\nEl dossier no es una propuesta financiable terminada. Es un instrumento de preparación que permite distinguir lo que la institución puede demostrar, lo que todavía necesita verificar y qué decisiones deberá tomar antes de avanzar hacia una oportunidad real."
+  },
+  {
+    "objectID": "presentacion.html#evaluación-aplicada",
+    "href": "presentacion.html#evaluación-aplicada",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Evaluación aplicada",
+    "text": "Evaluación aplicada\n\n25 % asistencia y participación · 35 % mapa de capacidades · 40 % nota conceptual\n\nLa propuesta inicial prevé aprobación con una nota mínima de 7/10. Los demás ejercicios del programa no añaden ponderaciones independientes; funcionan como evidencias que alimentan el dossier y ayudan a construir los dos productos autónomos principales.\nLas rúbricas y la aplicación operativa de la evaluación para 2027 deberán confirmarse institucionalmente antes del lanzamiento."
+  },
+  {
+    "objectID": "presentacion.html#posicionamiento-desde-el-sur-global",
+    "href": "presentacion.html#posicionamiento-desde-el-sur-global",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Posicionamiento desde el Sur Global",
+    "text": "Posicionamiento desde el Sur Global\nLa propuesta evita presentar a las instituciones latinoamericanas únicamente desde sus déficits. El programa trabaja con conocimiento científico y contextual, capacidades territoriales, redes, infraestructura, acceso a contextos específicos, experiencia de implementación, pilotos de validación y potencial de liderazgo de tareas o componentes.\nEl objetivo es que esas capacidades puedan relacionarse con necesidades concretas de una convocatoria y comunicarse de manera comprensible ante posibles coordinadores y socios."
+  },
+  {
+    "objectID": "presentacion.html#presupuesto-documentado-por-edición",
+    "href": "presentacion.html#presupuesto-documentado-por-edición",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Presupuesto documentado por edición",
+    "text": "Presupuesto documentado por edición\n\n\n\nRubro\nValor\n\n\n\n\nExpositores y componentes académicos y de comunicación\nUSD 3.000\n\n\nLUCES: plataforma y certificación\nUSD 1.000\n\n\nFee administrativo Planning / Rectoral Board\nUSD 800\n\n\nReserva para varios e imprevistos\nUSD 200\n\n\nTotal por edición\nUSD 5.000\n\n\n\nLos valores no incluyen impuestos. El rubro LUCES está sujeto a confirmación de Rectoral Board y la distribución del fee administrativo permanece pendiente. El presupuesto no define honorarios individuales por facilitador ni tarifas por hora."
+  },
+  {
+    "objectID": "presentacion.html#referencias-comerciales-y-cohorte",
+    "href": "presentacion.html#referencias-comerciales-y-cohorte",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Referencias comerciales y cohorte",
+    "text": "Referencias comerciales y cohorte\nLas referencias preliminares analizadas para 2027 son USD 390 como valor oficial propuesto, USD 350 como valor de lanzamiento y aproximadamente USD 320 como valor especial institucional, sujeto a condiciones y volumen. No son todavía precios aprobados.\nLa documentación distingue 18 participantes como punto de equilibrio aproximado asociado al escenario de lanzamiento, 20 participantes pagos como mínimo recomendado para confirmar una edición, 25 como meta comercial mínima deseable y 30 como tamaño ideal de cohorte. El punto de equilibrio cambia con el ticket medio y no debe tratarse como una cifra universal."
+  },
+  {
+    "objectID": "presentacion.html#equipo-e-implementación-2027",
+    "href": "presentacion.html#equipo-e-implementación-2027",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Equipo e implementación 2027",
+    "text": "Equipo e implementación 2027\nLa propuesta identifica a Kevin Jiménez Villavicencio, Catherine Fonseca Hortúa, Teresa Amido y Héctor Fabián Montenegro. Ninguno cuenta todavía con confirmación definitiva para 2027. Kevin figura como responsable y facilitador en la propuesta inicial; los otros tres perfiles aparecen expresamente como sujetos a confirmación según fechas y agenda.\nLa asignación de módulos, la carga horaria individual, la certificación, la propiedad intelectual, el uso de grabaciones y las responsabilidades entre LUCES, Rectoral Board, Planning Solutions y los facilitadores deben formalizarse antes de la ejecución."
+  },
+  {
+    "objectID": "presentacion.html#situación-de-la-edición-2027",
+    "href": "presentacion.html#situación-de-la-edición-2027",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Situación de la edición 2027",
+    "text": "Situación de la edición 2027\nLa valoración institucional permite continuar preparando el programa para una posible incorporación al portafolio LUCES 2027, pero el lanzamiento no está confirmado definitivamente. Todavía deben cerrarse la disponibilidad del equipo docente, la carga horaria por especialista, el cronograma, las condiciones de certificación, la propiedad intelectual de materiales, el uso de grabaciones, las responsabilidades institucionales y la política comercial final.\nLa preparación debe avanzar por fases: cierre académico, cierre financiero, confirmación de facilitadores, materiales, plataforma, campaña comercial, matrícula, confirmación de cohorte, ejecución, evaluación, certificación y cierre. Las fechas permanecen por definir."
+  },
+  {
+    "objectID": "presentacion.html#una-propuesta-de-preparación-institucional",
+    "href": "presentacion.html#una-propuesta-de-preparación-institucional",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Una propuesta de preparación institucional",
+    "text": "Una propuesta de preparación institucional\nConsorcios Internacionales desde el Sur Global\nEl valor del programa está en combinar una arquitectura académica definida, un producto institucional concreto y una base económica documentada, sin presentar como definitivas aquellas decisiones que todavía requieren cierre institucional.\n\nPlanning Solutions"
+  },
+  {
+    "objectID": "viabilidad.html",
+    "href": "viabilidad.html",
+    "title": "Presupuesto y viabilidad",
+    "section": "",
+    "text": "PRESUPUESTO Y VIABILIDAD\n\n\nLa propuesta 2027 dispone de un presupuesto desagregado por edición y de referencias comerciales preliminares. Ambos elementos cumplen funciones distintas: el presupuesto describe costos documentados; las referencias de matrícula, facturación y tamaño de cohorte permiten evaluar viabilidad, pero todavía no constituyen una política comercial aprobada."
+  },
+  {
+    "objectID": "viabilidad.html#presupuesto-documentado-por-edición",
+    "href": "viabilidad.html#presupuesto-documentado-por-edición",
+    "title": "Presupuesto y viabilidad",
+    "section": "Presupuesto documentado por edición",
+    "text": "Presupuesto documentado por edición\nEl presupuesto actualizado asciende a USD 5.000 por edición, sin impuestos. La documentación indica que todos los rubros que se muestran a continuación están incluidos dentro de ese total.\n\n\n\n\n\n\n\n\nRubro\nValor\nAlcance y estado\n\n\n\n\nExpositores y componentes académicos y de comunicación\nUSD 3.000\nHonorarios fijos por edición, preparación y actualización de materiales, revisión y evaluación de actividades, coordinación académica, diseño y materiales de comunicación, grabaciones y recursos digitales. Rubro documentado.\n\n\nLUCES: plataforma y certificación\nUSD 1.000\nRepresenta el 20 % del presupuesto total. Su aplicación está sujeta a confirmación de Rectoral Board.\n\n\nFee administrativo para Planning y Rectoral Board\nUSD 800\nRepresenta el 16 % del presupuesto total. La distribución entre ambas partes permanece pendiente de acuerdo.\n\n\nReserva para varios e imprevistos\nUSD 200\nRubro documentado para gastos no contemplados.\n\n\nTotal por edición\nUSD 5.000\nDocumentado; no incluye impuestos.\n\n\n\nEl rubro académico se presenta de forma agregada. La documentación no establece honorarios individuales por facilitador, una tarifa por hora ni una distribución interna entre especialistas. Por esa razón, cualquier asignación económica individual debe definirse posteriormente y no puede inferirse del presupuesto global."
+  },
+  {
+    "objectID": "viabilidad.html#referencias-comerciales-preliminares",
+    "href": "viabilidad.html#referencias-comerciales-preliminares",
+    "title": "Presupuesto y viabilidad",
+    "section": "Referencias comerciales preliminares",
+    "text": "Referencias comerciales preliminares\nLa retroalimentación institucional trabajó tres referencias de matrícula para analizar posibles escenarios de comercialización en 2027.\n\n\n\n\n\n\n\n\nReferencia\nValor por participante\nSituación actual\n\n\n\n\nValor oficial propuesto\nUSD 390\nReferencia preliminar; matrícula definitiva pendiente\n\n\nValor de lanzamiento propuesto\nUSD 350\nReferencia preliminar; política de lanzamiento pendiente\n\n\nValor especial institucional / Rectoral Board\nAproximadamente USD 320\nSujeto a condiciones específicas y volumen de inscripciones\n\n\n\nEstas cifras sirven para modelar escenarios. No deben presentarse todavía como precios aprobados ni como tarifas contractuales."
+  },
+  {
+    "objectID": "viabilidad.html#escenarios-de-facturación-y-resultado-estimado",
+    "href": "viabilidad.html#escenarios-de-facturación-y-resultado-estimado",
+    "title": "Presupuesto y viabilidad",
+    "section": "Escenarios de facturación y resultado estimado",
+    "text": "Escenarios de facturación y resultado estimado\nLos escenarios documentados utilizan una reserva preliminar equivalente al 20 % de la facturación para costos comerciales, operativos, administrativos, medios de pago y contingencias. El resultado estimado se calcula restando esa reserva y el costo base de USD 5.000. Se trata de un ejercicio de viabilidad, no de una utilidad contractual ni de un reparto individual.\n\n\n\n\n\n\n\n\n\n\nTicket medio\nParticipantes\nFacturación\nReserva 20 %\nResultado estimado\n\n\n\n\nUSD 320\n25\nUSD 8.000\nUSD 1.600\nUSD 1.400\n\n\nUSD 320\n30\nUSD 9.600\nUSD 1.920\nUSD 2.680\n\n\nUSD 350\n25\nUSD 8.750\nUSD 1.750\nUSD 2.000\n\n\nUSD 350\n30\nUSD 10.500\nUSD 2.100\nUSD 3.400\n\n\nUSD 390\n25\nUSD 9.750\nUSD 1.950\nUSD 2.800\n\n\nUSD 390\n30\nUSD 11.700\nUSD 2.340\nUSD 4.360\n\n\n\nLos seis escenarios coinciden matemáticamente con las fórmulas utilizadas en la retroalimentación institucional. Sin embargo, existe una cuestión que debe resolverse antes del cierre comercial: la reserva del 20 % fue planteada antes del presupuesto desagregado y algunos conceptos podrían superponerse con costos que ahora ya aparecen incluidos dentro de los USD 5.000. Esa relación debe validarse para evitar una doble imputación de costos."
+  },
+  {
+    "objectID": "viabilidad.html#tamaño-de-cohorte-y-punto-de-equilibrio",
+    "href": "viabilidad.html#tamaño-de-cohorte-y-punto-de-equilibrio",
+    "title": "Presupuesto y viabilidad",
+    "section": "Tamaño de cohorte y punto de equilibrio",
+    "text": "Tamaño de cohorte y punto de equilibrio\nLas referencias disponibles distinguen varios conceptos que no deben confundirse entre sí.\n\n\n\n\n\n\n\nParticipantes\nSignificado de la referencia\n\n\n\n\n18\nPunto de equilibrio aproximado recomendado para el escenario de lanzamiento; depende del ticket efectivo\n\n\n20\nNúmero mínimo recomendado de participantes pagos para confirmar una edición\n\n\n25\nMeta comercial mínima deseable\n\n\n30\nTamaño ideal de cohorte utilizado como referencia en la propuesta\n\n\n\nEl punto de equilibrio matemático depende del ticket medio. Con la fórmula documentada, corresponde aproximadamente a 20 participantes con un ticket de USD 320, 18 participantes con USD 350 y 17 participantes con USD 390. Estas cifras no representan un cupo máximo ni una regla automática de apertura."
+  },
+  {
+    "objectID": "viabilidad.html#qué-está-resuelto-y-qué-falta-cerrar",
+    "href": "viabilidad.html#qué-está-resuelto-y-qué-falta-cerrar",
+    "title": "Presupuesto y viabilidad",
+    "section": "Qué está resuelto y qué falta cerrar",
+    "text": "Qué está resuelto y qué falta cerrar\nLa composición del costo base está documentada. También están documentados los escenarios utilizados para discutir viabilidad. Lo que todavía debe definirse institucionalmente es la matrícula definitiva, el tratamiento de impuestos y retenciones, la distribución del fee administrativo, la relación entre el presupuesto desagregado y la reserva comercial del 20 %, la remuneración individual de especialistas y las condiciones comerciales asociadas a volumen, descuentos o lanzamiento.\n\nLa viabilidad económica debe leerse como una herramienta de decisión. El programa ya dispone de una estructura presupuestaria y de escenarios cuantificados, pero la política comercial definitiva debe cerrarse antes del lanzamiento 2027."
+  },
+  {
+    "objectID": "programa.html",
+    "href": "programa.html",
+    "title": "Programa y arquitectura académica",
+    "section": "",
+    "text": "ARQUITECTURA ACADÉMICA\n\n\nEl programa combina 14 horas de trabajo sincrónico y 16 horas de trabajo autónomo. La secuencia académica está documentada; la distribución de horas por módulo y la asignación de facilitadores permanecen pendientes de definición para la edición 2027."
+  },
+  {
+    "objectID": "programa.html#propósito-y-alcance",
+    "href": "programa.html#propósito-y-alcance",
+    "title": "Programa y arquitectura académica",
+    "section": "Propósito y alcance",
+    "text": "Propósito y alcance\nEl recorrido académico se ha organizado para que cada etapa responda a una necesidad concreta de preparación institucional. Primero se comprende el ecosistema de financiamiento y la posición que una institución latinoamericana puede ocupar dentro de él. Después se ordenan capacidades, se interpretan oportunidades, se analizan canales de búsqueda de socios, se prepara la comunicación institucional, se diseña preliminarmente un consorcio y se revisan los requisitos administrativos necesarios para avanzar.\nLa secuencia conserva las denominaciones y actividades autónomas de la propuesta académica inicial. La relación entre cada módulo y el dossier es una reorganización editorial de la revisión 2027, pensada para que los ejercicios no queden dispersos y puedan integrarse en un único instrumento de trabajo."
+  },
+  {
+    "objectID": "programa.html#módulo-1.-contexto-y-estructura-del-financiamiento-internacional",
+    "href": "programa.html#módulo-1.-contexto-y-estructura-del-financiamiento-internacional",
+    "title": "Programa y arquitectura académica",
+    "section": "Módulo 1. Contexto y estructura del financiamiento internacional",
+    "text": "Módulo 1. Contexto y estructura del financiamiento internacional\nEl primer módulo introduce el ecosistema global de financiamiento para investigación e innovación. Horizonte Europa ocupa un lugar importante, pero se estudia junto con otros programas internacionales relevantes. La discusión examina el valor diferencial de América Latina y del Sur Global y ayuda a reconocer posibles roles institucionales de acuerdo con capacidades científicas, experiencia territorial, redes, infraestructura y madurez organizacional.\nLa actividad autónoma documentada es la elaboración de un autodiagnóstico institucional y una exploración preliminar de oportunidades de cooperación internacional. Esa evidencia alimenta el primer componente del dossier y permite que los módulos posteriores trabajen con una base institucional concreta.\nHoras del módulo y facilitador: pendientes de definición."
+  },
+  {
+    "objectID": "programa.html#módulo-2.-preparación-estratégica-e-institucional",
+    "href": "programa.html#módulo-2.-preparación-estratégica-e-institucional",
+    "title": "Programa y arquitectura académica",
+    "section": "Módulo 2. Preparación estratégica e institucional",
+    "text": "Módulo 2. Preparación estratégica e institucional\nEste módulo se concentra en las fortalezas y capacidades diferenciales de la institución. El objetivo es pasar de descripciones generales a una lectura que permita comunicar de forma más precisa qué puede aportar la organización como socio internacional y en qué áreas todavía existen brechas de información, evidencia o posicionamiento.\nEl trabajo incorpora el mapa de capacidades institucionales y el perfil de socio internacional. La actividad autónoma establecida es la construcción preliminar del perfil institucional para cooperación internacional. El resultado esperado es un perfil inicial acompañado de un mapa de capacidades en construcción.\nEl perfil de socio internacional describe a la propia institución como posible aliada. No debe confundirse con la búsqueda de instituciones externas que podrían convertirse en socios, tarea que se desarrolla posteriormente.\nHoras del módulo y facilitador: pendientes de definición."
+  },
+  {
+    "objectID": "programa.html#módulo-3.-identificación-y-análisis-de-convocatorias",
+    "href": "programa.html#módulo-3.-identificación-y-análisis-de-convocatorias",
+    "title": "Programa y arquitectura académica",
+    "section": "Módulo 3. Identificación y análisis de convocatorias",
+    "text": "Módulo 3. Identificación y análisis de convocatorias\nEl tercer módulo trabaja la lectura de convocatorias internacionales. El participante aprende a interpretar tópicos, alcances e impactos esperados y a relacionarlos con las capacidades disponibles. La navegación práctica utiliza el Funding & Tenders Portal y otras plataformas pertinentes, siempre conservando la documentación oficial de la convocatoria como referencia principal.\nLa actividad autónoma consiste en registrarse en plataformas especializadas y realizar el análisis preliminar de una convocatoria internacional. El propósito no es producir una lista extensa de oportunidades, sino desarrollar criterio para reconocer cuáles guardan correspondencia con la institución y cuáles requieren mayor investigación.\nHoras del módulo y facilitador: pendientes de definición."
+  },
+  {
+    "objectID": "programa.html#módulo-4.-canales-y-plataformas-de-búsqueda-de-socios",
+    "href": "programa.html#módulo-4.-canales-y-plataformas-de-búsqueda-de-socios",
+    "title": "Programa y arquitectura académica",
+    "section": "Módulo 4. Canales y plataformas de búsqueda de socios",
+    "text": "Módulo 4. Canales y plataformas de búsqueda de socios\nUna vez que existe una comprensión más clara de capacidades y oportunidades, el programa aborda la identificación de actores, coordinadores, redes e instituciones que podrían resultar relevantes. La propuesta incorpora herramientas y canales como CORDIS, los Puntos Nacionales de Contacto (NCPs) y redes de cooperación científica para analizar proyectos financiados, participantes con experiencia y posibles vías de conexión.\nLa actividad autónoma vuelve sobre el mapa de capacidades y añade una identificación preliminar de potenciales socios internacionales. La relación resultante debe interpretarse como una hipótesis de cooperación que requiere verificación posterior; no representa un acuerdo, una disponibilidad confirmada ni una alianza ya constituida.\nHoras del módulo y facilitador: pendientes de definición."
+  },
+  {
+    "objectID": "programa.html#módulo-5.-networking-y-matchmaking-internacional",
+    "href": "programa.html#módulo-5.-networking-y-matchmaking-internacional",
+    "title": "Programa y arquitectura académica",
+    "section": "Módulo 5. Networking y matchmaking internacional",
+    "text": "Módulo 5. Networking y matchmaking internacional\nEl quinto módulo se ocupa de la comunicación institucional. Los participantes trabajan estrategias para desenvolverse en eventos de networking, brokerage events y espacios de matchmaking, con especial atención a la forma de explicar de manera breve y comprensible la propuesta de valor de su institución.\nLa actividad autónoma documentada es el diseño de un pitch institucional para la búsqueda de socios estratégicos. El pitch debe ser coherente con las capacidades identificadas y con las oportunidades analizadas; su objetivo es facilitar conversaciones relevantes, no prometer una colaboración que todavía no ha sido confirmada.\nHoras del módulo y facilitador: pendientes de definición."
+  },
+  {
+    "objectID": "programa.html#módulo-6.-establecimiento-y-composición-del-consorcio",
+    "href": "programa.html#módulo-6.-establecimiento-y-composición-del-consorcio",
+    "title": "Programa y arquitectura académica",
+    "section": "Módulo 6. Establecimiento y composición del consorcio",
+    "text": "Módulo 6. Establecimiento y composición del consorcio\nEste módulo analiza cómo se organiza preliminarmente un consorcio internacional. Se trabajan criterios para la selección de socios, roles y responsabilidades, paquetes de trabajo, tareas, entregables y gobernanza. El participante debe comprender cómo las capacidades de diferentes instituciones pueden distribuirse dentro de una estructura común y cómo esa distribución se relaciona con una convocatoria específica.\nLa actividad autónoma consiste en diseñar preliminarmente un consorcio internacional alineado con una oportunidad concreta. La revisión 2027 propone que esta etapa contribuya también al borrador de la nota conceptual. Esa articulación es editorial: la propuesta inicial incluye la nota conceptual en el trabajo autónomo global, pero no la asigna exclusivamente a este módulo.\nHoras del módulo y facilitador: pendientes de definición."
+  },
+  {
+    "objectID": "programa.html#módulo-7.-aspectos-administrativos-y-lecciones-aprendidas",
+    "href": "programa.html#módulo-7.-aspectos-administrativos-y-lecciones-aprendidas",
+    "title": "Programa y arquitectura académica",
+    "section": "Módulo 7. Aspectos administrativos y lecciones aprendidas",
+    "text": "Módulo 7. Aspectos administrativos y lecciones aprendidas\nLa última etapa aborda los requisitos administrativos que acompañan una futura participación en programas internacionales. Se revisan registro institucional, figura del LEAR, procesos de validación organizacional, errores frecuentes, buenas prácticas y experiencias de cooperación que permitan anticipar dificultades antes de una postulación real.\nLa actividad autónoma documentada es la elaboración de un checklist institucional. La revisión 2027 propone aprovechar esta fase para consolidar la nota conceptual y la hoja de ruta de internacionalización como integración final del dossier. La hoja de ruta debe expresar próximos pasos en función de la situación real de cada institución; no existe un horizonte obligatorio de 30–60–90 días en la fuente aprobada.\nHoras del módulo y facilitador: pendientes de definición."
+  },
+  {
+    "objectID": "programa.html#evaluación-documentada",
+    "href": "programa.html#evaluación-documentada",
+    "title": "Programa y arquitectura académica",
+    "section": "Evaluación documentada",
+    "text": "Evaluación documentada\n\n\n\n\n\n\n\nComponente\nPeso sobre la nota final\n\n\n\n\nAsistencia y participación\n25 %\n\n\nMapa de capacidades institucionales\n35 %\n\n\nNota conceptual para establecimiento de consorcio internacional\n40 %\n\n\nTotal\n100 %\n\n\n\nLa propuesta inicial prevé una nota mínima de aprobación de 7/10. El resto de las actividades contribuye a la construcción del dossier y a la preparación de los dos productos autónomos evaluados, sin introducir nuevas ponderaciones. Las rúbricas, la distribución de responsabilidades y su aplicación definitiva para 2027 permanecen sujetas a validación institucional."
+  },
+  {
+    "objectID": "metodologia.html",
+    "href": "metodologia.html",
+    "title": "Metodología y evaluación",
+    "section": "",
+    "text": "EXPERIENCIA DE APRENDIZAJE\n\n\nLa metodología combina exposiciones especializadas, análisis de casos, trabajo colaborativo y ejercicios prácticos. El objetivo es que cada participante avance desde la comprensión del ecosistema internacional hasta la preparación de evidencias y decisiones que puedan ser utilizadas dentro de su institución."
+  },
+  {
+    "objectID": "metodologia.html#una-metodología-aplicada-no-una-secuencia-de-ejercicios-aislados",
+    "href": "metodologia.html#una-metodología-aplicada-no-una-secuencia-de-ejercicios-aislados",
+    "title": "Metodología y evaluación",
+    "section": "Una metodología aplicada, no una secuencia de ejercicios aislados",
+    "text": "Una metodología aplicada, no una secuencia de ejercicios aislados\nEl programa está diseñado para que el trabajo académico se acumule. La exposición especializada permite comprender programas de financiamiento, roles institucionales y experiencias de cooperación. La navegación por plataformas ayuda a interpretar tópicos, alcances e impactos esperados. El trabajo sobre capacidades permite construir una lectura más precisa del valor institucional. La búsqueda de socios conecta esas capacidades con actores y redes. El networking prepara la comunicación de la propuesta de valor. El diseño preliminar del consorcio organiza roles, tareas y gobernanza. Finalmente, el checklist y la integración del dossier permiten reconocer qué está preparado y qué necesita todavía una decisión o validación.\nEsta lógica evita que el curso termine en ejercicios desconectados. Cada actividad deja una evidencia que puede ser revisada, mejorada y utilizada como parte del Dossier de Posicionamiento Institucional para Consorcios Internacionales."
+  },
+  {
+    "objectID": "metodologia.html#plataformas-y-canales-documentados",
+    "href": "metodologia.html#plataformas-y-canales-documentados",
+    "title": "Metodología y evaluación",
+    "section": "Plataformas y canales documentados",
+    "text": "Plataformas y canales documentados\nEl Funding & Tenders Portal se utiliza para trabajar con convocatorias, tópicos y documentación oficial. CORDIS permite observar proyectos financiados, coordinadores, participantes y antecedentes de cooperación. Los Puntos Nacionales de Contacto (NCPs) forman parte del ecosistema de orientación y conexión. Las redes académicas y científicas, los brokerage events y los espacios de matchmaking complementan la búsqueda de socios y la preparación de conversaciones institucionales.\nHorizonte Europa es un escenario importante de aplicación, pero no constituye el único eje comercial ni académico del programa. La propuesta también se refiere a otras iniciativas de cooperación científica global, lo que permite que la metodología pueda trasladarse a contextos internacionales diferentes."
+  },
+  {
+    "objectID": "metodologia.html#posicionamiento-desde-el-sur-global",
+    "href": "metodologia.html#posicionamiento-desde-el-sur-global",
+    "title": "Metodología y evaluación",
+    "section": "Posicionamiento desde el Sur Global",
+    "text": "Posicionamiento desde el Sur Global\nEl programa parte de una mirada distinta a la internacionalización entendida únicamente como acceso a financiamiento. Las instituciones latinoamericanas pueden aportar conocimiento científico y contextual, capacidades territoriales, redes, infraestructura, pilotos de validación, acceso a contextos específicos, experiencia de implementación y liderazgo de tareas o componentes.\nEl trabajo metodológico consiste en identificar cuáles de esas capacidades son realmente demostrables y cómo pueden relacionarse con necesidades concretas de una convocatoria o de un consorcio. De esta manera, el participante no se limita a preguntar dónde puede incorporarse, sino que aprende a explicar por qué su institución puede resultar relevante para una alianza internacional."
+  },
+  {
+    "objectID": "metodologia.html#trabajo-autónomo-y-retroalimentación",
+    "href": "metodologia.html#trabajo-autónomo-y-retroalimentación",
+    "title": "Metodología y evaluación",
+    "section": "Trabajo autónomo y retroalimentación",
+    "text": "Trabajo autónomo y retroalimentación\nLas 16 horas de trabajo autónomo permiten desarrollar evidencias sobre la propia institución. El mapa de capacidades y la nota conceptual concentran la mayor parte de la evaluación, pero el autodiagnóstico, la revisión de convocatorias, la identificación de socios, el pitch, el diseño preliminar del consorcio y el checklist administrativo cumplen una función formativa importante porque alimentan la construcción del dossier.\nLa revisión y evaluación de actividades forma parte del alcance académico previsto. Las rúbricas, la dinámica de retroalimentación y la distribución final de responsabilidades deberán confirmarse institucionalmente antes de la edición 2027."
+  },
+  {
+    "objectID": "metodologia.html#evaluación",
+    "href": "metodologia.html#evaluación",
+    "title": "Metodología y evaluación",
+    "section": "Evaluación",
+    "text": "Evaluación\n\n\n\n\n\n\n\nComponente\nPeso\n\n\n\n\nAsistencia y participación\n25 %\n\n\nTrabajo autónomo: mapa de capacidades institucionales\n35 %\n\n\nTrabajo autónomo: nota conceptual para establecimiento de consorcio internacional\n40 %\n\n\nTotal\n100 %\n\n\n\nLa propuesta inicial prevé una nota mínima de aprobación de 7/10 y señala que el facilitador revisa y acredita las notas. La revisión 2027 conserva las ponderaciones documentadas y propone articular los productos evaluados con el dossier, sin añadir nuevas calificaciones."
+  },
+  {
+    "objectID": "metodologia.html#tecnología-al-servicio-de-la-producción",
+    "href": "metodologia.html#tecnología-al-servicio-de-la-producción",
+    "title": "Metodología y evaluación",
+    "section": "Tecnología al servicio de la producción",
+    "text": "Tecnología al servicio de la producción\nPlanning Solutions utiliza R, Quarto, GitHub, Obsidian y otros recursos digitales para ordenar información, conservar trazabilidad y producir materiales reproducibles. Estas herramientas corresponden a la infraestructura interna del proyecto. La documentación aprobada no establece su uso como requisito académico para los participantes, por lo que la experiencia formativa se presenta a partir de contenidos, plataformas de cooperación y productos institucionales, no a partir del software utilizado para producirlos."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "",
+    "text": "PROPUESTA EJECUTIVA PARA REVISIÓN INSTITUCIONAL 2027\n\n\nEstrategias para financiamiento, posicionamiento institucional y cooperación científica internacional.\nEl programa propone una ruta aplicada de preparación institucional para que universidades, centros de investigación y equipos de cooperación de América Latina fortalezcan su capacidad de identificar oportunidades, demostrar capacidades, construir alianzas y prepararse para participar en consorcios internacionales.\nHorizonte Europa constituye uno de los principales escenarios de aplicación, junto con otras iniciativas de cooperación científica internacional. El objetivo no es limitar la internacionalización a un único programa, sino desarrollar capacidades institucionales que puedan utilizarse en distintos contextos de cooperación competitiva.\nConocer el programa Ver presupuesto y viabilidad\n\n30 horas académicas · 14 horas sincrónicas · 16 horas autónomas · 7 módulos\n\n\n\n\n\n\n\n\n\nPlanning Solutions\n\n\nCooperación internacional · estrategia · evidencia"
+  },
+  {
+    "objectID": "index.html#una-propuesta-orientada-a-preparación-institucional",
+    "href": "index.html#una-propuesta-orientada-a-preparación-institucional",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Una propuesta orientada a preparación institucional",
+    "text": "Una propuesta orientada a preparación institucional\nLa cooperación internacional exige más que localizar convocatorias. Una institución necesita reconocer qué capacidades puede demostrar, entender dónde existe una oportunidad pertinente, identificar con quién podría colaborar y preparar los elementos académicos y administrativos que permitan avanzar de manera ordenada. El programa se ha diseñado alrededor de esa necesidad.\nLa propuesta parte de una idea especialmente relevante para las instituciones latinoamericanas: participar en un consorcio no significa únicamente buscar financiamiento. También implica explicar qué conocimiento, qué experiencia, qué infraestructura, qué acceso territorial y qué capacidad de articulación puede aportar la institución. Por eso el enfoque desde el Sur Global no se utiliza como una etiqueta geográfica, sino como una perspectiva para posicionar capacidades científicas, técnicas y contextuales de manera más visible y estratégica.\n\nEl resultado esperado es que el participante pueda relacionar las capacidades de su institución con oportunidades internacionales concretas, preparar conversaciones con socios y ordenar los siguientes pasos de internacionalización en un instrumento de trabajo propio."
+  },
+  {
+    "objectID": "index.html#el-programa-en-su-configuración-actual",
+    "href": "index.html#el-programa-en-su-configuración-actual",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "El programa en su configuración actual",
+    "text": "El programa en su configuración actual\n\n\n\n\n\n\n\nDimensión\nDefinición documentada\n\n\n\n\nModalidad\nEn línea\n\n\nDuración total\n30 horas académicas\n\n\nTrabajo sincrónico\n14 horas\n\n\nTrabajo autónomo\n16 horas\n\n\nSecuencia\n7 módulos\n\n\nProducto integrador propuesto\nDossier de Posicionamiento Institucional para Consorcios Internacionales\n\n\nEdición 2027\nFechas por definir y lanzamiento sujeto al cierre institucional\n\n\n\nLa distribución de horas por módulo y por facilitador todavía no ha sido definida. La web no incorpora repartos horarios inventados ni asigna especialistas a módulos mientras esas decisiones no estén institucionalmente confirmadas."
+  },
+  {
+    "objectID": "index.html#qué-se-trabaja-durante-la-formación",
+    "href": "index.html#qué-se-trabaja-durante-la-formación",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Qué se trabaja durante la formación",
+    "text": "Qué se trabaja durante la formación\nEl primer tramo del programa permite comprender el ecosistema de financiamiento internacional y reconocer posibles roles institucionales desde América Latina y el Sur Global. A partir de ese contexto, el participante organiza sus capacidades y desarrolla un perfil institucional que pueda ser utilizado en conversaciones de cooperación.\nLa siguiente etapa se concentra en la lectura de convocatorias y en la búsqueda de socios. El Funding & Tenders Portal se utiliza como referencia para trabajar tópicos y oportunidades; CORDIS, los Puntos Nacionales de Contacto y las redes de cooperación científica ayudan a comprender proyectos financiados, coordinadores, actores y canales de conexión. El objetivo no es acumular información, sino relacionar oportunidades y alianzas con capacidades institucionales verificables.\nEl programa incorpora después networking, brokerage events y matchmaking, con énfasis en la preparación de un pitch institucional. Finalmente, aborda la composición preliminar de un consorcio, la distribución de roles y responsabilidades, la lógica de paquetes de trabajo y los requisitos administrativos que suelen acompañar una futura participación internacional, como registro institucional, LEAR y procesos de validación organizacional."
+  },
+  {
+    "objectID": "index.html#un-producto-que-integra-el-trabajo-realizado",
+    "href": "index.html#un-producto-que-integra-el-trabajo-realizado",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Un producto que integra el trabajo realizado",
+    "text": "Un producto que integra el trabajo realizado\nEl Dossier de Posicionamiento Institucional para Consorcios Internacionales reúne los ejercicios del curso en un instrumento que puede seguir utilizándose dentro de la institución. No es una propuesta de financiamiento terminada ni un expediente de postulación; es una base de preparación que organiza información, decisiones y próximos pasos.\nEl dossier comprende diez componentes: autodiagnóstico institucional, mapa de capacidades, perfil de socio internacional, identificación de convocatorias prioritarias, identificación preliminar de potenciales socios, pitch institucional, diseño preliminar del consorcio, nota conceptual, checklist administrativo y hoja de ruta de internacionalización y próximos pasos.\nLa nota conceptual se desarrolla como trabajo autónomo transversal y se articula editorialmente entre los últimos módulos. La hoja de ruta no tiene un formato obligatorio de 30–60–90 días: debe adaptarse a las necesidades reales de la institución y de la oportunidad analizada.\nExplorar el contenido del dossier"
+  },
+  {
+    "objectID": "index.html#evaluación-aplicada",
+    "href": "index.html#evaluación-aplicada",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Evaluación aplicada",
+    "text": "Evaluación aplicada\nLa estructura documentada mantiene una ponderación sencilla. La asistencia y participación representan el 25 % de la nota final. El mapa de capacidades institucionales representa el 35 % y la nota conceptual para establecimiento de consorcio internacional el 40 %. La propuesta inicial prevé aprobación con una nota mínima de 7/10. Las rúbricas y las responsabilidades operativas para la edición 2027 deberán confirmarse antes del lanzamiento.\nLos demás ejercicios no añaden nuevas ponderaciones. Funcionan como evidencias de avance y ayudan a construir con mayor consistencia el mapa de capacidades, la nota conceptual y el dossier integrador."
+  },
+  {
+    "objectID": "index.html#plataformas-y-canales-de-trabajo",
+    "href": "index.html#plataformas-y-canales-de-trabajo",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Plataformas y canales de trabajo",
+    "text": "Plataformas y canales de trabajo\nLa propuesta documenta el uso de Funding & Tenders Portal, CORDIS, Puntos Nacionales de Contacto, redes académicas y científicas, brokerage events y espacios de matchmaking. Estas herramientas se presentan en función de decisiones reales de cooperación: interpretar una oportunidad, reconocer actores con experiencia, identificar posibles aliados y preparar una conversación institucional relevante.\nR, Quarto, GitHub, Obsidian y otros recursos digitales forman parte de la infraestructura interna utilizada por Planning Solutions para organizar, validar y producir materiales. Su uso por los participantes no está establecido como requisito académico del programa."
+  },
+  {
+    "objectID": "index.html#presupuesto-y-viabilidad-de-una-edición",
+    "href": "index.html#presupuesto-y-viabilidad-de-una-edición",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Presupuesto y viabilidad de una edición",
+    "text": "Presupuesto y viabilidad de una edición\nLa revisión cuenta con un presupuesto documentado de USD 5.000 por edición, sin impuestos. De ese total, USD 3.000 corresponden a expositores y componentes académicos y de comunicación; USD 1.000 se asignan a plataforma y certificación LUCES, sujetos a confirmación de Rectoral Board; USD 800 corresponden al fee administrativo para Planning y Rectoral Board, cuya distribución permanece pendiente; y USD 200 se reservan para varios e imprevistos.\nLas referencias comerciales analizadas para 2027 son preliminares: USD 390 como valor oficial propuesto, USD 350 como valor de lanzamiento y aproximadamente USD 320 como valor especial institucional o Rectoral Board, sujeto a condiciones y volumen. Los escenarios utilizados para discutir viabilidad distinguen además un punto de equilibrio aproximado, un mínimo recomendado para confirmar la edición, una meta comercial deseable y una cohorte ideal. Estos datos permiten modelar la decisión, pero no deben confundirse con una política comercial ya aprobada.\nRevisar presupuesto, escenarios y cohorte"
+  },
+  {
+    "objectID": "index.html#equipo-instituciones-y-condiciones-de-implementación",
+    "href": "index.html#equipo-instituciones-y-condiciones-de-implementación",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Equipo, instituciones y condiciones de implementación",
+    "text": "Equipo, instituciones y condiciones de implementación\nLa propuesta identifica cuatro perfiles docentes, pero ninguno cuenta todavía con confirmación definitiva para la edición 2027. Kevin Jiménez Villavicencio aparece como responsable del evento y facilitador en la propuesta inicial; Catherine Fonseca Hortúa, Teresa Amido y Héctor Fabián Montenegro figuran expresamente como perfiles por confirmar según fechas y agenda. La carga horaria y la asignación de módulos siguen pendientes.\nLUCES Universidad Corporativa, Rectoral Board y Planning Solutions aparecen en la documentación con roles académicos, operativos o económicos que todavía deben formalizarse. Antes del lanzamiento deben cerrarse, entre otros aspectos, la certificación, la propiedad intelectual, el uso de grabaciones, la distribución de responsabilidades y las condiciones económicas entre las partes.\nVer equipo y estado institucional"
+  },
+  {
+    "objectID": "index.html#situación-de-la-edición-2027",
+    "href": "index.html#situación-de-la-edición-2027",
+    "title": "Consorcios Internacionales desde el Sur Global",
+    "section": "Situación de la edición 2027",
+    "text": "Situación de la edición 2027\nLa valoración institucional permite continuar preparando el programa para una posible incorporación al portafolio LUCES 2027, pero el lanzamiento no está confirmado definitivamente. Todavía deben cerrarse la disponibilidad del equipo docente, la carga horaria por especialista, el cronograma, las condiciones de certificación, la propiedad intelectual de materiales, el uso de grabaciones, las responsabilidades institucionales y la política comercial final.\nEl proceso de cierre se organiza por fases: cierre académico, cierre financiero, confirmación de facilitadores, preparación de materiales y plataforma, campaña comercial, matrícula, confirmación de cohorte, ejecución, evaluación, certificación y cierre. Las fechas 2027 permanecen por definir.\nConsultar estado de lanzamiento y pendientes\nEsta condición no modifica el contenido académico ya documentado. Permite, en cambio, distinguir con claridad entre aquello que forma parte de la propuesta y aquello que todavía requiere una decisión institucional antes de ser comunicado como definitivo.\n\nPLANNING SOLUTIONS ## Una propuesta académica, institucional y económicamente estructurada para avanzar con decisiones informadas\nRevisar los siete módulos Abrir la presentación ejecutiva"
+  },
+  {
+    "objectID": "entregable.html",
+    "href": "entregable.html",
+    "title": "Dossier institucional",
+    "section": "",
+    "text": "PRODUCTO INTEGRADOR\n\n\nEl dossier reúne los ejercicios académicos en una estructura común para que el participante pueda conservar una lectura ordenada de capacidades, oportunidades, posibles socios, propuesta de valor y requisitos administrativos. Su finalidad es apoyar decisiones y conversaciones posteriores dentro de la institución."
+  },
+  {
+    "objectID": "entregable.html#qué-es-y-qué-no-es-el-dossier",
+    "href": "entregable.html#qué-es-y-qué-no-es-el-dossier",
+    "title": "Dossier institucional",
+    "section": "Qué es y qué no es el dossier",
+    "text": "Qué es y qué no es el dossier\nEl Dossier de Posicionamiento Institucional para Consorcios Internacionales no es una propuesta de financiamiento terminada, una carta de compromiso ni un expediente listo para ser presentado automáticamente a una convocatoria. Es un instrumento de preparación. Ayuda a ordenar información que suele encontrarse dispersa y a distinguir entre capacidades documentadas, hipótesis que todavía requieren verificación, socios potenciales, decisiones de diseño y cuestiones administrativas pendientes.\nLa propuesta académica inicial ya contemplaba productos como el mapa de capacidades, el perfil de socio, la nota conceptual y una hoja de ruta. La revisión 2027 recoge la recomendación de LUCES / Rectoral Board de integrar esos productos y los demás ejercicios en un único dossier de mayor valor institucional."
+  },
+  {
+    "objectID": "entregable.html#diez-componentes-que-se-construyen-progresivamente",
+    "href": "entregable.html#diez-componentes-que-se-construyen-progresivamente",
+    "title": "Dossier institucional",
+    "section": "Diez componentes que se construyen progresivamente",
+    "text": "Diez componentes que se construyen progresivamente\n\n\n\n\n\n\n\n\nN.º\nComponente\nMomento principal de construcción\n\n\n\n\n1\nAutodiagnóstico institucional\nMódulo 1\n\n\n2\nMapa de capacidades\nMódulos 2 y 4\n\n\n3\nPerfil de socio internacional\nMódulo 2\n\n\n4\nIdentificación de convocatorias prioritarias\nMódulo 3\n\n\n5\nIdentificación preliminar de potenciales socios\nMódulo 4\n\n\n6\nPitch institucional\nMódulo 5\n\n\n7\nDiseño preliminar del consorcio\nMódulo 6\n\n\n8\nNota conceptual\nTrabajo autónomo transversal; consolidación propuesta en M6–M7\n\n\n9\nChecklist administrativo\nMódulo 7\n\n\n10\nHoja de ruta de internacionalización y próximos pasos\nIntegración propuesta en Módulo 7\n\n\n\nEsta correspondencia organiza editorialmente las actividades documentadas. No modifica por sí sola los compromisos de la propuesta original ni convierte todos los componentes en productos evaluados de manera independiente."
+  },
+  {
+    "objectID": "entregable.html#el-perfil-de-socio-y-la-búsqueda-de-socios-son-cosas-distintas",
+    "href": "entregable.html#el-perfil-de-socio-y-la-búsqueda-de-socios-son-cosas-distintas",
+    "title": "Dossier institucional",
+    "section": "El perfil de socio y la búsqueda de socios son cosas distintas",
+    "text": "El perfil de socio y la búsqueda de socios son cosas distintas\nUna distinción importante del dossier es la que existe entre perfil de socio internacional e identificación preliminar de potenciales socios. El perfil explica qué puede aportar la institución participante cuando actúa como aliada dentro de un proyecto. La identificación de potenciales socios, en cambio, reúne actores externos que podrían complementar una oportunidad o una necesidad del consorcio.\nUna institución incluida en ese segundo componente debe considerarse preliminar hasta que exista investigación suficiente y, posteriormente, contacto. El dossier no debe sugerir que hay interés, disponibilidad o acuerdo de colaboración cuando esa situación no ha sido confirmada."
+  },
+  {
+    "objectID": "entregable.html#nota-conceptual-y-diseño-del-consorcio",
+    "href": "entregable.html#nota-conceptual-y-diseño-del-consorcio",
+    "title": "Dossier institucional",
+    "section": "Nota conceptual y diseño del consorcio",
+    "text": "Nota conceptual y diseño del consorcio\nEl diseño preliminar del consorcio permite ordenar posibles socios, roles, responsabilidades, paquetes de trabajo, tareas, entregables y elementos de gobernanza. La nota conceptual recoge parte de esa lógica y la relaciona con el problema, los objetivos, los resultados esperados y la contribución institucional.\nLa propuesta inicial incluye la nota conceptual dentro del trabajo autónomo global. La revisión 2027 propone consolidarla entre los módulos 6 y 7 porque en ese momento ya existen más elementos para darle coherencia. Esta articulación se mantiene como propuesta editorial y deberá validarse académicamente junto con las rúbricas y los formatos finales."
+  },
+  {
+    "objectID": "entregable.html#checklist-administrativo-y-próximos-pasos",
+    "href": "entregable.html#checklist-administrativo-y-próximos-pasos",
+    "title": "Dossier institucional",
+    "section": "Checklist administrativo y próximos pasos",
+    "text": "Checklist administrativo y próximos pasos\nEl checklist institucional revisa elementos como registro de la organización, LEAR, procesos de validación y otros requisitos que dependen del programa de aplicación. Su función es hacer visibles las condiciones administrativas que necesitan atención antes de una futura postulación.\nLa hoja de ruta organiza los próximos pasos de internacionalización que surjan del trabajo realizado. No existe en la fuente aprobada una obligación de utilizar un esquema de 30–60–90 días. El horizonte debe adaptarse a la oportunidad, a la institución y a las decisiones que todavía deban resolverse."
+  },
+  {
+    "objectID": "entregable.html#relación-con-la-evaluación",
+    "href": "entregable.html#relación-con-la-evaluación",
+    "title": "Dossier institucional",
+    "section": "Relación con la evaluación",
+    "text": "Relación con la evaluación\nEl mapa de capacidades representa el 35 % de la nota final y la nota conceptual el 40 %. La asistencia y participación completan el 25 % restante. Los demás componentes del dossier funcionan como evidencias de aprendizaje y como insumos que permiten construir esos productos con mayor consistencia.\nEl dossier debe mantenerse actualizado. Convocatorias, socios, capacidades y requisitos administrativos pueden cambiar, por lo que cualquier uso posterior requiere revisar vigencia, fuentes y estados de verificación."
+  }
+]

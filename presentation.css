@@ -1,0 +1,140 @@
+/* Planning Solutions — Reveal.js, versión ejecutiva narrativa */
+:root {
+  --planning-teal: #1D5C6D;
+  --planning-cyan: #80D8ED;
+  --planning-sand: #C9C0A1;
+  --planning-ink: #07171C;
+  --planning-white: #FFFFFF;
+  --planning-muted: #C7D4D8;
+}
+
+.reveal-viewport {
+  background:
+    radial-gradient(circle at 84% 12%, rgba(128,216,237,.11), transparent 30%),
+    linear-gradient(135deg, #07171C 0%, #103744 58%, #1D5C6D 100%);
+}
+
+.reveal {
+  color: var(--planning-white);
+  font-family: "Aptos", "Segoe UI", Arial, sans-serif;
+  font-size: 31px;
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  font-family: "Aptos Display", "Segoe UI", Arial, sans-serif;
+  text-transform: none;
+  letter-spacing: -.03em;
+}
+
+.reveal h1,
+.reveal h2 {
+  color: var(--planning-cyan);
+}
+
+.reveal h2 {
+  font-size: 1.7em;
+  margin-bottom: .7em;
+}
+
+.reveal h3 {
+  color: var(--planning-sand);
+}
+
+.reveal p {
+  max-width: 1320px;
+  font-size: .92em;
+  line-height: 1.5;
+  margin: 0 0 .8em;
+}
+
+.reveal strong {
+  color: var(--planning-cyan);
+}
+
+.reveal a {
+  color: var(--planning-cyan);
+}
+
+.reveal .slide-logo {
+  max-height: 64px !important;
+  top: 24px !important;
+  right: 28px !important;
+}
+
+.title-slide-custom h2 {
+  color: white;
+  font-size: 2.15em;
+  max-width: 1260px;
+}
+
+.slide-kicker {
+  color: var(--planning-cyan);
+  letter-spacing: .14em;
+  font-size: .52em;
+  font-weight: 800;
+  margin-top: 1.35em;
+}
+
+.big-slide-quote {
+  max-width: 1250px;
+  margin-top: 1.2em;
+  padding: .75em 1em;
+  border-left: 5px solid var(--planning-cyan);
+  color: var(--planning-sand);
+  font-size: 1.18em;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.mega-line {
+  color: var(--planning-sand);
+  font-size: 1.25em;
+  font-weight: 800;
+  margin-bottom: 1em;
+}
+
+.closing-slide h2 {
+  color: white;
+  font-size: 2em;
+  max-width: 1200px;
+}
+
+.closing-brand {
+  margin-top: 1.5em;
+  color: var(--planning-cyan);
+  font-weight: 900;
+  letter-spacing: .08em;
+}
+
+.reveal table {
+  width: 100%;
+  font-size: .62em;
+  margin-top: .8em;
+}
+
+.reveal table th {
+  background: var(--planning-teal);
+  color: white;
+  padding: .55em .65em;
+}
+
+.reveal table td {
+  border-color: rgba(255,255,255,.15);
+  padding: .55em .65em;
+  vertical-align: top;
+}
+
+.reveal blockquote {
+  width: auto;
+  margin: 1em 0;
+  padding: .7em 1em;
+  border-left: 5px solid var(--planning-sand);
+  background: rgba(29,92,109,.35);
+  color: white;
+}
